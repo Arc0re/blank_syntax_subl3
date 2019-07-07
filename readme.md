@@ -14,7 +14,7 @@ Not available on the package manager because I'm lazy, but it's simple:
 5. Enjoy!
 
 ## Inspiration etc
-* Plan9 and it's culture
+* Plan9 and its culture (see ACME for example)
 * Sean Barrett and his minimalistic environment, which allows for great focus. He uses a specific theme with green comments though
 * Lazyness of looking for good light colorschemes for Sublime. A good one is the Mac Classic one.
 * The font used in the screenshots is Consolas, the Theme is Default.
