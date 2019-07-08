@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Monokai</string>
+	<key>settings</key>
+	<array>
+		<!-- INSERT DICTIONARIES WITH COLOR SETTINGS HERE -->
+		 <dict>
+		  <key>settings</key>
+		  <dict>
+			 <key>background</key>
+			 <string>#FFFFDC</string>
+			 <key>caret</key>
+			 <string>#000000</string>
+			 <key>foreground</key>
+			 <string>#000000</string>
+			 <key>selection</key>
+			 <string>#000000</string>
+			 <key>selectionForeground</key>
+			 <string>#FFFFFF</string>
+			 <key>popupCss</key>
+			<string><![CDATA[
+				html {
+					background-color: #FFFFFF;
+					color: #000000;
+				}
+				<!-- a ,.error, .deleted, .success, .inserted, .warning, .modified {
+					color: #F92672;
+				} -->
+				]]></string>
+		  </dict>
+	   </dict>
+	</array>
+	<key>uuid</key>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+</dict>
+</plist>
