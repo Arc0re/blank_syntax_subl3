@@ -4,6 +4,7 @@ A very simple light colorscheme to avoid distraction. Keeps all the goodness of 
 
 ## Screenshot(s)
 ![screenshot](/screenshot.png)
+![screenshot yellow](/screenshot_yell.png)
 
 ## How to use
 Not available on the package manager because I'm lazy, but it's simple:
